@@ -1,0 +1,10 @@
+london:
+  name: "Le wagon london"
+  description: "138 kingsla"
+berlin:
+  name: "Le Wagon Berlin"
+  description: "12 Berlin street"
+bali:
+  name: "Le Wagon Bali"
+  description: "12 Bali Street"
+
